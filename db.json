@@ -1,0 +1,92 @@
+{
+  "bikes": [
+    {
+      "id": 1,
+      "model": "Stels Navigator 400 MD 24 F010 2020",
+      "color": "blue",
+      "location": "53.859361, 27.525915",
+      "rating": 5,
+      "photo": "https://res.cloudinary.com/lapkinthegod/image/upload/v1668690409/835717e254a1d87325384b09884ac0e2_d1dydc.jpg"
+    },
+    {
+      "id": 2,
+      "model": "Bibi Mars 24 2021",
+      "color": "orange",
+      "location": "53.863742, 27.663166",
+      "rating": 5,
+      "photo": "https://res.cloudinary.com/lapkinthegod/image/upload/v1668690455/8b95db4d33f8c8a2ab0ca0ae49b250dd_f1vzra.jpg"
+    },
+    {
+      "id": 3,
+      "model": "Foxx Atlantic 29 D р.18 2021",
+      "color": "orange",
+      "location": "53.871739, 27.661278",
+      "rating": 4,
+      "photo": "https://res.cloudinary.com/lapkinthegod/image/upload/v1668690621/67aaf0492629f72f181e16ff7ea056b2_wkediy.jpg"
+    },
+    {
+      "id": 4,
+      "model": "Cube AIM Pro 29 L 2021",
+      "color": "black",
+      "location": "53.896528, 27.558109",
+      "rating": 5,
+      "photo": "https://res.cloudinary.com/lapkinthegod/image/upload/v1668690705/4d490b5bea6b367a5b725e6812e7df0c_wziusa.jpg"
+    },
+    {
+      "id": 5,
+      "model": "Cube Attention SL 29 L 2021",
+      "color": "black",
+      "location": "53.924853, 27.592852",
+      "rating": 5,
+      "photo": "https://res.cloudinary.com/lapkinthegod/image/upload/v1668690769/c22e0c4eac63d0acd30071393b96b142_ggywqw.jpg"
+    },
+    {
+      "id": 6,
+      "model": "Stels Navigator 420 V 24 V030 2020",
+      "color": "blue",
+      "location": "53.924482, 27.501437",
+      "rating": 5,
+      "photo": "https://res.cloudinary.com/lapkinthegod/image/upload/v1668690855/86fcda240e1ea4b98374bc6110399c6c_tycjup.jpg"
+    },
+    {
+      "id": 7,
+      "model": "Stels Navigator 400 V 24 F010 2020",
+      "color": "blue",
+      "location": "53.871711, 27.563498",
+      "rating": 5,
+      "photo": "https://res.cloudinary.com/lapkinthegod/image/upload/v1668690916/2af19c037ee20de1494853d229d7eada_zwxw8x.jpg"
+    },
+    {
+      "id": 8,
+      "model": "Stels Navigator 345 28 Z010 2020",
+      "color": "violet",
+      "location": "53.846747, 27.473513",
+      "rating": 5,
+      "photo": "https://res.cloudinary.com/lapkinthegod/image/upload/v1668690952/c7c06e04cd19816c60591bd72fc6b718_vfnv9d.jpg"
+    },
+    {
+      "id": 9,
+      "model": "Greenway 6702M 2020",
+      "color": "violet",
+      "location": "53.898753, 27.654074",
+      "rating": 5,
+      "photo": "https://res.cloudinary.com/lapkinthegod/image/upload/v1668691010/b7855867e2305c565fea31ded4d3fa5c_uyq7l0.jpg"
+    },
+    {
+      "id": 10,
+      "model": "Cannondale Trail 5 29 M 2020",
+      "color": "blue",
+      "location": "53.892216, 27.537739",
+      "rating": 5,
+      "photo": "https://res.cloudinary.com/lapkinthegod/image/upload/v1668691068/e4c5af700b68e6ce02121281d69fa725_savylx.jpg"
+    }
+  ],
+  "users": [
+    {
+      "email": "admin@admin.com",
+      "password": "$2a$10$9PrVg.vYbEIjlnPWnYBdw.D8oi7AqOJL160oLTy2G/PjGrngsK66O",
+      "role": "admin",
+      "id": 1
+    }
+  ]
+}
