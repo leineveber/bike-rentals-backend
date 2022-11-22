@@ -23,7 +23,7 @@ server.get("/me", auth, (req, res, next) => {
       res.json(user);
     } catch (error) {
       if (err.name === "TokenExpiredError") {
-        res.status(401).json("Your token is expired");
+        res.status(401).json("Your token has expired");
       } else {
         res.status(400).json("Something went wrong");
       }
