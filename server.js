@@ -22,7 +22,11 @@ server.get("/me", auth, (req, res, next) => {
       let user = db.get("users").find({ email: data.email }).value();
       res.json(user);
     } catch (error) {
-      res.status(400).json("Something went wrong");
+      if (err.name === "TokenExpiredError") {
+        res.status(401).json("Your token is expired");
+      } else {
+        res.status(400).json("Something went wrong");
+      }
     }
   } else {
     res.status(400).json("User not authorized");

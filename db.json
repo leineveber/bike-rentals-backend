@@ -6,7 +6,38 @@
       "color": "blue",
       "location": "53.859361, 27.525915",
       "rating": 5,
-      "photo": "https://res.cloudinary.com/lapkinthegod/image/upload/v1668690409/835717e254a1d87325384b09884ac0e2_d1dydc.jpg"
+      "photo": "https://res.cloudinary.com/lapkinthegod/image/upload/v1668690409/835717e254a1d87325384b09884ac0e2_d1dydc.jpg",
+      "rented": [
+        {
+          "accountID": 2,
+          "dateFrom": 1669065857167,
+          "dateTo": 1669065889798
+        },
+        {
+          "accountID": 1,
+          "dateFrom": 1669074732342,
+          "dateTo": 1669074734935
+        },
+        {
+          "accountID": 1,
+          "dateFrom": 1669075106686,
+          "dateTo": 1669075119264
+        },
+        {
+          "accountID": 1,
+          "dateFrom": 1669075178477,
+          "dateTo": 1669076978477
+        },
+        {
+          "accountID": 1,
+          "dateFrom": 1669121841237,
+          "dateTo": 1669121851349
+        },
+        {
+          "accountID": 1,
+          "dateFrom": 1669122577927
+        }
+      ]
     },
     {
       "id": 2,
@@ -14,7 +45,14 @@
       "color": "orange",
       "location": "53.863742, 27.663166",
       "rating": 5,
-      "photo": "https://res.cloudinary.com/lapkinthegod/image/upload/v1668690455/8b95db4d33f8c8a2ab0ca0ae49b250dd_f1vzra.jpg"
+      "photo": "https://res.cloudinary.com/lapkinthegod/image/upload/v1668690455/8b95db4d33f8c8a2ab0ca0ae49b250dd_f1vzra.jpg",
+      "rented": [
+        {
+          "accountID": 2,
+          "dateFrom": 1669065865066,
+          "dateTo": 1669065878764
+        }
+      ]
     },
     {
       "id": 3,
@@ -22,7 +60,14 @@
       "color": "orange",
       "location": "53.871739, 27.661278",
       "rating": 4,
-      "photo": "https://res.cloudinary.com/lapkinthegod/image/upload/v1668690621/67aaf0492629f72f181e16ff7ea056b2_wkediy.jpg"
+      "photo": "https://res.cloudinary.com/lapkinthegod/image/upload/v1668690621/67aaf0492629f72f181e16ff7ea056b2_wkediy.jpg",
+      "rented": [
+        {
+          "accountID": 2,
+          "dateFrom": 1669065861970,
+          "dateTo": 1669065895642
+        }
+      ]
     },
     {
       "id": 4,
@@ -86,7 +131,62 @@
       "email": "admin@admin.com",
       "password": "$2a$10$9PrVg.vYbEIjlnPWnYBdw.D8oi7AqOJL160oLTy2G/PjGrngsK66O",
       "role": "admin",
-      "id": 1
+      "id": 1,
+      "rentedBikes": [
+        {
+          "id": 1,
+          "dateFrom": 1669074732342,
+          "dateTo": 1669121851349,
+          "rated": 4
+        },
+        {
+          "id": 1,
+          "dateFrom": 1669075106686,
+          "dateTo": 1669121851349,
+          "rated": 3
+        },
+        {
+          "id": 1,
+          "dateFrom": 1669075178477,
+          "dateTo": 1669121851349,
+          "rated": 5
+        },
+        {
+          "id": 1,
+          "dateFrom": 1669121841237,
+          "dateTo": 1669121851349,
+          "rated": 2
+        },
+        {
+          "id": 1,
+          "dateFrom": 1669122577927
+        }
+      ]
+    },
+    {
+      "email": "test@test.com",
+      "password": "$2a$10$dCn.91Y0VMvGnQcukTajiO6RYk1qjbPtDg1aVyi3CPJchfGg7Vgyi",
+      "id": 2,
+      "rentedBikes": [
+        {
+          "id": 1,
+          "dateFrom": 1669065857167,
+          "dateTo": 1669065889798,
+          "rated": 3
+        },
+        {
+          "id": 3,
+          "dateFrom": 1669065861970,
+          "dateTo": 1669065895642,
+          "rated": 3
+        },
+        {
+          "id": 2,
+          "dateFrom": 1669065865066,
+          "dateTo": 1669065878764,
+          "rated": 5
+        }
+      ]
     }
   ]
 }
