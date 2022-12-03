@@ -10,9 +10,12 @@
   },
   "license": "MIT",
   "dependencies": {
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
     "express": "^4.17.1",
     "json-server": "^0.17.1",
     "json-server-auth": "^2.1.0",
-    "jsonwebtoken": "^8.5.1"
+    "jsonwebtoken": "^8.5.1",
+    "nanoid": "3.0.0"
   }
 }

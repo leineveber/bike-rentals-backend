@@ -6,7 +6,9 @@
       "color": "blue",
       "location": "53.859361, 27.525915",
       "rating": 5,
-      "photo": "https://res.cloudinary.com/lapkinthegod/image/upload/v1668690409/835717e254a1d87325384b09884ac0e2_d1dydc.jpg"
+      "ratings": [],
+      "photo": "https://res.cloudinary.com/lapkinthegod/image/upload/v1668690409/835717e254a1d87325384b09884ac0e2_d1dydc.jpg",
+      "history": []
     },
     {
       "id": 2,
@@ -14,7 +16,9 @@
       "color": "orange",
       "location": "53.863742, 27.663166",
       "rating": 5,
-      "photo": "https://res.cloudinary.com/lapkinthegod/image/upload/v1668690455/8b95db4d33f8c8a2ab0ca0ae49b250dd_f1vzra.jpg"
+      "ratings": [],
+      "photo": "https://res.cloudinary.com/lapkinthegod/image/upload/v1668690455/8b95db4d33f8c8a2ab0ca0ae49b250dd_f1vzra.jpg",
+      "history": []
     },
     {
       "id": 3,
@@ -22,7 +26,9 @@
       "color": "orange",
       "location": "53.871739, 27.661278",
       "rating": 4,
-      "photo": "https://res.cloudinary.com/lapkinthegod/image/upload/v1668690621/67aaf0492629f72f181e16ff7ea056b2_wkediy.jpg"
+      "ratings": [],
+      "photo": "https://res.cloudinary.com/lapkinthegod/image/upload/v1668690621/67aaf0492629f72f181e16ff7ea056b2_wkediy.jpg",
+      "history": []
     },
     {
       "id": 4,
@@ -30,7 +36,9 @@
       "color": "black",
       "location": "53.896528, 27.558109",
       "rating": 5,
-      "photo": "https://res.cloudinary.com/lapkinthegod/image/upload/v1668690705/4d490b5bea6b367a5b725e6812e7df0c_wziusa.jpg"
+      "ratings": [],
+      "photo": "https://res.cloudinary.com/lapkinthegod/image/upload/v1668690705/4d490b5bea6b367a5b725e6812e7df0c_wziusa.jpg",
+      "history": []
     },
     {
       "id": 5,
@@ -38,7 +46,9 @@
       "color": "black",
       "location": "53.924853, 27.592852",
       "rating": 5,
-      "photo": "https://res.cloudinary.com/lapkinthegod/image/upload/v1668690769/c22e0c4eac63d0acd30071393b96b142_ggywqw.jpg"
+      "ratings": [],
+      "photo": "https://res.cloudinary.com/lapkinthegod/image/upload/v1668690769/c22e0c4eac63d0acd30071393b96b142_ggywqw.jpg",
+      "history": []
     },
     {
       "id": 6,
@@ -46,7 +56,9 @@
       "color": "blue",
       "location": "53.924482, 27.501437",
       "rating": 5,
-      "photo": "https://res.cloudinary.com/lapkinthegod/image/upload/v1668690855/86fcda240e1ea4b98374bc6110399c6c_tycjup.jpg"
+      "ratings": [],
+      "photo": "https://res.cloudinary.com/lapkinthegod/image/upload/v1668690855/86fcda240e1ea4b98374bc6110399c6c_tycjup.jpg",
+      "history": []
     },
     {
       "id": 7,
@@ -54,7 +66,9 @@
       "color": "blue",
       "location": "53.871711, 27.563498",
       "rating": 5,
-      "photo": "https://res.cloudinary.com/lapkinthegod/image/upload/v1668690916/2af19c037ee20de1494853d229d7eada_zwxw8x.jpg"
+      "ratings": [],
+      "photo": "https://res.cloudinary.com/lapkinthegod/image/upload/v1668690916/2af19c037ee20de1494853d229d7eada_zwxw8x.jpg",
+      "history": []
     },
     {
       "id": 8,
@@ -62,7 +76,9 @@
       "color": "violet",
       "location": "53.846747, 27.473513",
       "rating": 5,
-      "photo": "https://res.cloudinary.com/lapkinthegod/image/upload/v1668690952/c7c06e04cd19816c60591bd72fc6b718_vfnv9d.jpg"
+      "ratings": [],
+      "photo": "https://res.cloudinary.com/lapkinthegod/image/upload/v1668690952/c7c06e04cd19816c60591bd72fc6b718_vfnv9d.jpg",
+      "history": []
     },
     {
       "id": 9,
@@ -70,7 +86,9 @@
       "color": "violet",
       "location": "53.898753, 27.654074",
       "rating": 5,
-      "photo": "https://res.cloudinary.com/lapkinthegod/image/upload/v1668691010/b7855867e2305c565fea31ded4d3fa5c_uyq7l0.jpg"
+      "ratings": [],
+      "photo": "https://res.cloudinary.com/lapkinthegod/image/upload/v1668691010/b7855867e2305c565fea31ded4d3fa5c_uyq7l0.jpg",
+      "history": []
     },
     {
       "id": 10,
@@ -78,7 +96,9 @@
       "color": "blue",
       "location": "53.892216, 27.537739",
       "rating": 5,
-      "photo": "https://res.cloudinary.com/lapkinthegod/image/upload/v1668691068/e4c5af700b68e6ce02121281d69fa725_savylx.jpg"
+      "ratings": [],
+      "photo": "https://res.cloudinary.com/lapkinthegod/image/upload/v1668691068/e4c5af700b68e6ce02121281d69fa725_savylx.jpg",
+      "history": []
     }
   ],
   "users": [
